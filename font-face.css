@@ -1,0 +1,13 @@
+  @font-face {
+      font-family: Vazir;
+      src: url('http://fonts.codearena.ir/rastikerdar/vazir/vazir.eot');
+      src: url('http://fonts.codearena.ir/rastikerdar/vazir/vazir.eot?#iefix') format('embedded-opentype'),
+           url('http://fonts.codearena.ir/rastikerdar/vazir/vazir.woff') format('woff'),
+           url('http://fonts.codearena.ir/rastikerdar/vazir/vazir.ttf') format('truetype');
+      font-weight: normal;
+    }
+
+p{
+	font-family: Vazir !important;
+	 font-weight: normal;
+}
